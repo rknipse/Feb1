@@ -11,6 +11,7 @@ namespace Feb1
         static void Main(string[] args)
         {
             Console.WriteLine("How's your Tuesday?");
+            Console.WriteLine("Very well. I'm about to eat a kebab for dinner. How's your day?");
         }
     }
 }
