@@ -10,7 +10,7 @@ namespace Feb1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Everyone!");
+            Console.WriteLine("How's your Tuesday?");
         }
     }
 }
